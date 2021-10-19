@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lilxiao81
 - 👀 I’m interested in any AI algorithm, cloud stuff, no/low code, crypto
 - 🌱 I’m currently learning system design with AWS, anything defi 
-- 💞️ I’m looking to collaborate on defi
+- 💞️ I’m looking to collaborate on some vanila crypto projects (fullstack)
 - 📫 How to reach me lilxiao81@gmail.com
 
 <!---
